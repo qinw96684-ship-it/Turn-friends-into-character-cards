@@ -1,0 +1,13 @@
+# 排除任何聊天记录导出
+*_脱敏/
+*_记忆包/
+conversations/
+media/
+*.txt
+!蒸馏提示词.md
+!蒸馏失败案例库.md
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
